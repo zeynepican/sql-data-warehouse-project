@@ -90,7 +90,7 @@ As a next step, this project may be extended by:
 
 ---
 
-## 📌 Source
+##  Source
 
 Original project and guidance: **Data With Baraa (YouTube)**
 
